@@ -21,7 +21,7 @@
 			"streamSettings": {
 				"network": "ws",
 				"wsSettings": {
-					"path": "/jay"
+					"path": "/jay/"
 				}
 			}
 		}
